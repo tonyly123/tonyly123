@@ -1,4 +1,6 @@
-## Hi there 👋
+# Tony Ly
+**University of California, Berkeley**
+B.S. Mechanical Engineering | B.S. Electrical Engineering & Computer Sciences
 
 <!--
 **tonyly123/tonyly123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
