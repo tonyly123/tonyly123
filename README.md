@@ -1,5 +1,7 @@
 # Tony Ly
+
 **University of California, Berkeley**
+
 B.S. Mechanical Engineering | B.S. Electrical Engineering & Computer Sciences
 
 <!--
